@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for building 
 Programming Languages: Python, JavaScript, C++, Java, .NET
 Web Development: React, Next.js, ASP.NET, J2EE, Tailwind CSS
 Cloud Platforms: AWS, Azure, Siemens Cloud
-Data & Automation: RPA, Oracle SQL, ABAP, SAP Fiori, IoT, Salesforce
-Tools & Frameworks: FastAPI, Apache, Arduino, LoRaWAN, LangChain
+Data & Automation:, Oracle SQL, IoT, Salesforce
+Tools & Frameworks: FastAPI, Apache, Arduino, LoRaWAN, 
 🔭 Projects
 Here are a few highlights:
 
