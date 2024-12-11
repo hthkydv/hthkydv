@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a passion for building 
 
 🚀 Skills & Expertise
 Programming Languages: Python, JavaScript, C++, Java, .NET
-Web Development: React, Next.js, ASP.NET, J2EE, Tailwind CSS
+Web Development: React, Next.js, Tailwind CSS
 Cloud Platforms: AWS, Azure, Siemens Cloud
 Data & Automation:, Oracle SQL, IoT, Salesforce
 Tools & Frameworks: FastAPI, Apache, Arduino, LoRaWAN, 
